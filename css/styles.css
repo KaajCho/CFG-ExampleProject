@@ -1,0 +1,10 @@
+.nav{
+    background-color: rgb(224, 223, 221);
+    margin:10px;
+    padding: 10px;
+}
+
+.container{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
